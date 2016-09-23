@@ -1,0 +1,8 @@
+[package]
+name = "password_generator"
+version = "0.1.0"
+authors = ["Gabriel Mendonça <gabrielmendoncanf@gmail.com>"]
+
+[dependencies]
+
+rand = "0.3.14"
